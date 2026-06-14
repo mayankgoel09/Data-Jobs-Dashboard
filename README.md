@@ -8,8 +8,6 @@ This project was created as part of my Power BI learning journey by following an
 
 ## Dashboard Preview
 
-<h2>Dashboard Preview</h2>
-
 <img src="images/Data%20Jobs%20Dashboard.png" width="900">
 
 <p>High-level overview of the data jobs market.</p>
