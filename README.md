@@ -14,7 +14,7 @@ This project was created as part of my Power BI learning journey by following an
 
 <h2>Job Details (Drill Through)</h2>
 
-<img src="images/Drill%20Through%20Page.png" width="900">
+<img src="images/Drill%20Through%20Page.PNG" width="900">
 
 <p>Detailed analysis for individual job roles.</p>
 
