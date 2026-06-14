@@ -8,7 +8,17 @@ This project was created as part of my Power BI learning journey by following an
 
 ## Dashboard Preview
 
-![Dashboard Overview](images/dashboard-overview.gif)
+<h2>Dashboard Preview</h2>
+
+<img src="images/Data%20Jobs%20Dashboard.png" width="900">
+
+<p>High-level overview of the data jobs market.</p>
+
+<h2>Job Details (Drill Through)</h2>
+
+<img src="images/Drill%20Through%20Page.png" width="900">
+
+<p>Detailed analysis for individual job roles.</p>
 
 ## Project Goals
 
